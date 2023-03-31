@@ -60,7 +60,7 @@
 #+LATEX_HEADER: \usepackage[style=trad-abbrv,sorting=none,sortcites=true,doi=false,url=false,giveninits=true,hyperref]{biblatex}
 
 ** Exporter Settings
-#+AUTHOR: Aidan Scannell
+#+AUTHOR: Valentin Pearce
 #+EXPORT_FILE_NAME: ./curriculum-vitae.pdf
 #+OPTIONS: toc:nil title:nil H:1
 ** Macros
@@ -75,20 +75,20 @@
 #+begin_export latex
 \name{Aidan Scannell}
 \photoR{2.8cm}{aidan_portrait.jpeg}
-\tagline{PhD Researcher}
+\tagline{Ingénieur Informatique}
 #+end_export
 
 ** Personal Info :ignore:
 #+begin_export latex
 \personalinfo{
   \homepage{www.aidanscannell.com}
-  \email{scannell.aidan@gmail.com}
-  \phone{+44 787 558 3912}
-  \location{Bristol, UK}
-  \github{aidanscannell}
-  \linkedin{aidan-scannell-82522789/}
-  \dob{22 April 1994}
-  \driving{UK Driving Licence}
+  \email{valentin@pearce.fr}
+  \phone{+33 6 49 17 84 96}
+  \location{Brest, FR}
+  \github{Valentin Pearce}
+  \linkedin{valentinpearce/}
+  \dob{3 Janvier 1995}
+  \driving{Permis B}
 }
 \makecvheader
 #+end_export
@@ -110,7 +110,7 @@
  \end{quote}
 #+end_export
 ** Experience
-*** PhD Researcher :ignore:
+*** Développeur Back-End :ignore:
 {{{cvevent(PhD Researcher, University of Bristol,Sept 2018 -- Ongoing, Bristol\, UK)}}}
 
 # Researching methods for probabilistic inference and control in multimodal dynamical systems. EPSRC Centre for Doctoral Training in Future Autonomous and Robotic Systems (FARSCOPE).
@@ -370,7 +370,7 @@ Each year, as part of Formula Student, students design, build and race a single 
 {{{cvtag(Org-mode)}}}
 
 ** Education
-{{{cvevent(PhD\ in Bayesian Machine Learning for Robotic Control, University of Bristol, Sept 2018 - Ongoing,)}}}
+{{{cvevent(Master Informatique, Université de Bretagne Occidentale (UBO), Sept 2018 - Juin 2020,)}}}
 - \faBook Probabilistic Inference for Learning and Control in Multimodal Dynamical Systems
 
 {{{divider}}}
