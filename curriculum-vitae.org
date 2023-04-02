@@ -73,7 +73,7 @@
 * CV Header :ignore:
 ** Photo & Tagline :ignore:
 #+begin_export latex
-\name{Aidan Scannell}
+\name{Valentin Pearce}
 \photoR{2.8cm}{aidan_portrait.jpeg}
 \tagline{Ingénieur Informatique}
 #+end_export
@@ -81,7 +81,7 @@
 ** Personal Info :ignore:
 #+begin_export latex
 \personalinfo{
-  \homepage{www.aidanscannell.com}
+  \homepage{valentinpearce.com}
   \email{valentin@pearce.fr}
   \phone{+33 6 49 17 84 96}
   \location{Brest, FR}
@@ -106,22 +106,19 @@
 ** Personal Statement Amazon :ignore:
 #+begin_export latex
  \begin{quote}
- ``I am a PhD researcher with interests at the intersection of probabilistic machine learning and control theory. A great deal of my work focuses on Bayesian non-parametric methods, specifically Gaussian processes, variational inference and decision-making under uncertainty.''
+ ``Je suis un ingénieur informatique intéressé par le développements d'APIs.''
  \end{quote}
 #+end_export
 ** Experience
 *** Développeur Back-End :ignore:
-{{{cvevent(PhD Researcher, University of Bristol,Sept 2018 -- Ongoing, Bristol\, UK)}}}
+{{{cvevent(Ingénieur développeur, id3i, Sept 2020 -- En cours, Brest\, France}}}
 
 # Researching methods for probabilistic inference and control in multimodal dynamical systems. EPSRC Centre for Doctoral Training in Future Autonomous and Robotic Systems (FARSCOPE).
-Researching methods for data-efficient learning and control in multimodal dynamical systems. EPSRC Centre for Doctoral Training in Future Autonomous and Robotic Systems (FARSCOPE).
+Développement de solutions logicielles sur mesure pour des clients industriels et commerciaux.
 
-{{{cvtag(Probabilistic modelling)}}}
-{{{cvtag(Gaussian processes)}}}
-{{{cvtag(Variational inference)}}}
-{{{cvtag(Optimal control)}}}
-{{{cvtag(Trajectory optimisation)}}}
-# {{{cvtag(Model-based reinforcement learning)}}}
+{{{cvtag(Applications client lourd C# / .NET)}}}
+{{{cvtag(API C#/.NET EntityFramework)}}}
+{{{cvtag(API TypeScript MongoDB)}}}
 
 *** Teaching Assistant :ignore:
 {{{par-div}}}
